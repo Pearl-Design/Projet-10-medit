@@ -6141,3 +6141,5 @@ Stack trace:
 [18-Apr-2024 07:29:44 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
 [18-Apr-2024 07:31:43 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
 [18-Apr-2024 07:31:44 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:33:43 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:33:44 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
