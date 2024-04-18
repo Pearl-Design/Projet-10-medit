@@ -6007,3 +6007,137 @@ Stack trace:
 [17-Apr-2024 17:30:09 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
 [17-Apr-2024 17:30:10 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
 [17-Apr-2024 17:30:46 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 06:59:44 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 06:59:47 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:08:04 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:08:06 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:08:07 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:08:07 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:08:08 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:08:23 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:08:24 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:08:24 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:08:24 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:10:02 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:10:03 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:10:04 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:10:04 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:10:53 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:10:54 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:10:54 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:10:54 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:11:53 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:11:54 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:11:55 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:11:55 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:11:56 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:14:31 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:14:32 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:14:33 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:14:33 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:14:34 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:14:53 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:14:54 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:14:54 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:14:54 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:18:13 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:18:14 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:19:14 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:19:15 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:14 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:15 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:17 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:18 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:18 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:18 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:20 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:22 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:23 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:23 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:24 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:25 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:25 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:25 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:25 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:25 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:25 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:26 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:26 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:26 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:26 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:26 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:26 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:26 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:26 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:27 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:27 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:29 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:29 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:31 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:31 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:31 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:31 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:31 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:32 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:32 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:32 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:21:34 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:34 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:38 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:21:46 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:22:01 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:22:03 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:22:05 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:22:17 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:22:32 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:22:46 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:22:47 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:23:03 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:23:04 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:23:18 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:23:33 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:23:35 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:23:39 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:23:48 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:23:54 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:24:04 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:24:05 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:24:25 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:24:40 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:25:56 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:25:58 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:26:12 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:26:13 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:09 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:10 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:19 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:20 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:27:20 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:27:20 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:21 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:27:21 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:27:23 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:23 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:23 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:23 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:23 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:23 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:24 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:24 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:24 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:24 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:24 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:24 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:25 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:27:25 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:27:25 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:25 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:26 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:27:26 UTC] PHP Notice:  ob_end_flush(): Failed to send buffer of zlib output compression (1) in C:\MAMP\htdocs\Projet-10-medit\wp-includes\functions.php on line 5420
+[18-Apr-2024 07:27:27 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:28 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:27:42 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:29:43 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:29:44 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:31:43 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
+[18-Apr-2024 07:31:44 UTC] PHP Warning:  Undefined array key "TRIAL" in C:\MAMP\htdocs\Projet-10-medit\wp-content\plugins\astra_worker\astra_worker.php on line 107
